@@ -1,0 +1,2 @@
+# Customer-Segmentation-Using-ML
+As customer segmentation is a very important process in creating a sustainable business model , so by using some Machine Learning techniques such as K-means Clustering which groups the data in order of their similarities, then from the data collected by this technique we can understand the customer requirements more precisely and thereby improving the marketing strategy to target the particular customer base and maximize the profits
